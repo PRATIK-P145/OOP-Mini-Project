@@ -5,42 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Airline Reservation System Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        .section {
-            background-color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .section h2 {
-            font-size: 1.5em;
-            margin-bottom: 10px;
-            color: #3498db;
-        }
-        .section p {
-            margin: 10px 0;
-        }
-        .skills, .functionality {
-            padding-left: 20px;
-        }
-        .skills ul, .functionality ul {
-            list-style-type: square;
-            margin: 0;
-        }
-        .skills ul li, .functionality ul li {
-            margin: 5px 0;
-        }
-    </style>
 </head>
 <body>
    <h1>Airline Reservation System Project Using Java</h1>
